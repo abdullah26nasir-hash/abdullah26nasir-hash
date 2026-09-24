@@ -6,14 +6,18 @@ I'm the founder of Uncooked, a home for people building the physical future: rob
 
 I run the Oxford Cambridge Fellowship, a founder residency across Oxford, Cambridge and London. We bring together 30 founders from around the world and connect them to the UK ecosystem, Europe and the world at large through our partners, mentors and supporters.
 
+The numbers so far: 240+ builders across 55+ UK unis in Uncooked Labs, 60+ founders through the fellowship, 10+ startups advised.
+
 Right now I'm back on the 7-day design challenge: taking apps I've built before and shipping them properly. Function first, branding last.
 
 **What I'm building:**
 
-- [Musafir](https://github.com/abdullah26nasir-hash/musafir): a safety-first Umrah travel companion. Live official advisories, heat, crowds and permits in one calm place.
-- [Rally](https://github.com/abdullah26nasir-hash/rally): a football scouting game. Pick rising U21 talent before they blow up, score from real weekly performances, keep the timestamped receipt that proves you called them early.
-- [Unmasked](https://github.com/abdullah26nasir-hash/unmasked): your favourite Guess Who in a new flavour. Like the one Niko plays on YouTube, but better: play it with your friends anywhere, anytime.
+| Product | What it is | What it proves |
+| --- | --- | --- |
+| [Musafir](https://github.com/abdullah26nasir-hash/musafir) | A safety-first Umrah travel companion: live official advisories, heat, crowds and permits in one calm place. | Live-data product judgment: official feeds turned into calm, usable guidance. |
+| [Rally](https://github.com/abdullah26nasir-hash/rally) | A football scouting game: pick rising U21 talent before they blow up, score from real weekly performances, keep the timestamped receipt that proves you called them early. | Consumer game mechanics with real weekly data loops. |
+| [Unmasked](https://github.com/abdullah26nasir-hash/unmasked) | Your favourite Guess Who in a new flavour. Like the one Niko plays on YouTube, but better: play it with your friends anywhere, anytime. | AI game design against a live opponent. |
 
 **How I work:** I really care about the details - the tiny ones people might never notice, but that quietly shape the whole experience: how it feels, how it looks. I'll stay up very late to get something working in exactly the right way. That doesn't mean I take forever to ship. It means I care about the quality of what I put my name on.
 
-Interested in working with me, or on some of the things I'm building? Say hello on X: [@Real_Abdullah7](https://x.com/Real_Abdullah7).
+Interested in working with me, or on some of the things I'm building? Say hello on X: [@Real_Abdullah7](https://x.com/Real_Abdullah7). Elsewhere: [Uncooked](https://uncookedjobs.com), [Oxford Cambridge Fellowship](https://www.oxfordcambridgefellowship.com).
