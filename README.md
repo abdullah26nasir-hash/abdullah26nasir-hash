@@ -14,6 +14,6 @@ Right now I'm back on the 7-day design challenge: taking apps I've built before 
 - [Rally](https://github.com/abdullah26nasir-hash/rally): a football scouting game. Pick rising U21 talent before they blow up, score from real weekly performances, keep the timestamped receipt that proves you called them early.
 - [Unmasked](https://github.com/abdullah26nasir-hash/unmasked): your favourite Guess Who in a new flavour. Like the one Niko plays on YouTube, but better: play it with your friends anywhere, anytime.
 
-**How I work:** "Giving a damn", as Steve Jobs put it. I'm obsessive about the details: what I build has to work well, be a beautiful experience, and look good. Everything here is researched, planned, built and properly tested before anyone touches it.
+**How I work:** I really care about the details - the tiny ones people might never notice, but that quietly shape the whole experience: how it feels, how it looks. I'll stay up very late to get something working in exactly the right way. That doesn't mean I take forever to ship. It means I care about the quality of what I put my name on.
 
 Interested in working with me, or on some of the things I'm building? Say hello on X: [@Real_Abdullah7](https://x.com/Real_Abdullah7).
