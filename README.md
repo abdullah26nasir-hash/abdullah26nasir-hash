@@ -6,7 +6,7 @@ I'm the founder of Uncooked, a home for people building the physical future: rob
 
 I run the Oxford Cambridge Fellowship, a founder residency across Oxford, Cambridge and London. We bring together 30 founders from around the world and connect them to the UK ecosystem, Europe and the world at large through our partners, mentors and supporters.
 
-The numbers so far: 240+ builders across 55+ UK unis in Uncooked Labs, 60+ founders through the fellowship, 10+ startups advised.
+The numbers so far: Members from 55+ UK unis in Uncooked Labs, 60+ founders through the fellowship, 10+ startups advised.
 
 Right now I'm back on the 7-day design challenge: taking apps I've built before and shipping them properly. Function first, branding last.
 
