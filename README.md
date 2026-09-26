@@ -20,7 +20,7 @@ Labs and Jobs are both part of Uncooked.
 
 ## Side projects
 
-| | Idea |
+| | Things I am working on |
 | --- | --- |
 | 🧭 | Safety infra for the most sacred journey for 2 billion people. |
 | ⚽ | Be the first to spot football's next star before the world does. |
