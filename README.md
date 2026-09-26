@@ -1,23 +1,28 @@
-**Founder-operator and product strategist working at the intersection of AI, startups, community, and deep tech. I turn ambiguous ideas into products, platforms, partnerships and real-world momentum.**
+# Abdullah Mansuri
 
-I'm Abdullah. Product manager and founder. In my free time I like to build things: apps, software and physical things too.
+Hey, I'm Abdullah. I like building cool stuff, physical and virtual, sometimes where the 2 meet. I'm a big consumer electronics nerd.
 
-I'm the founder of Uncooked, a home for people building the physical future: robots, rockets and everything in between.
+I work at the intersection of AI, startups, community & deep tech. I build products and communities that open up access to capital, opportunity & connection.
 
-I run the Oxford Cambridge Fellowship, a founder residency across Oxford, Cambridge and London. We bring together 30 founders from around the world and connect them to the UK ecosystem, Europe and the world at large through our partners, mentors and supporters.
+Prev: product @ Outer Circle; one of the youngest product hires @ Centrica, the UK's largest energy company.
 
-The numbers so far: Members from 55+ UK unis in Uncooked Labs, 60+ founders through the fellowship, 10+ startups advised.
+## Things I'm building
 
-Right now I'm back on the 7-day design challenge: taking apps I've built before and shipping them properly. Function first, branding last.
-
-**What I'm building:**
-
-| Product | What it is | What it proves |
+| | Thing | What it does |
 | --- | --- | --- |
-| [Musafir](https://github.com/abdullah26nasir-hash/musafir) | A safety-first Umrah travel companion: live official advisories, heat, crowds and permits in one calm place. | Live-data product judgment: official feeds turned into calm, usable guidance. |
-| [Rally](https://github.com/abdullah26nasir-hash/rally) | A football scouting game: pick rising U21 talent before they blow up, score from real weekly performances, keep the timestamped receipt that proves you called them early. | Consumer game mechanics with real weekly data loops. |
-| [Unmasked](https://github.com/abdullah26nasir-hash/unmasked) | Your favourite Guess Who in a new flavour. Like the one Niko plays on YouTube, but better: play it with your friends anywhere, anytime. | AI game design against a live opponent. |
+| 🚀 | **Uncooked** | A home for finding promising people early, helping them grow and opening doors to meaningful work. We're trying to get 1 million young people into meaningful opportunities by 2030. |
+| 🛠️ | **Uncooked Labs** | A UK home for people building the physical future in hardware & deep tech: robots, rockets & everything in between. |
+| 🔎 | **Uncooked Jobs** | The trust layer for hiring. Founders see what people can do and hire on proof. |
+| 🤝 | **OC[F]ellows** | A founder residency across Oxford, Cambridge & London. 2 cohorts, 60+ founders. |
 
-**How I work:** I really care about the details - the tiny ones people might never notice, but that quietly shape the whole experience: how it feels, how it looks. I'll stay up very late to get something working in exactly the right way. That doesn't mean I take forever to ship. It means I care about the quality of what I put my name on.
+Labs and Jobs are both part of Uncooked.
 
-Interested in working with me, or on some of the things I'm building? Say hello on X: [@Real_Abdullah7](https://x.com/Real_Abdullah7). Elsewhere: [Uncooked](https://uncookedjobs.com), [Oxford Cambridge Fellowship](https://www.oxfordcambridgefellowship.com).
+## Side projects
+
+| | Thing | What it does |
+| --- | --- | --- |
+| 🧭 | **[Musafir](https://github.com/abdullah26nasir-hash/musafir)** | Plan Umrah with the journey and safety details in one place. |
+| ⚽ | **[Rally](https://github.com/abdullah26nasir-hash/rally)** | Remember picking a future star on FIFA before everyone knew their name? Rally lets you make that call yourself. |
+| 🎭 | **[Unmasked](https://github.com/abdullah26nasir-hash/unmasked)** | Play a guessing game with a friend, wherever you are. |
+
+Interested in working together on any of these projects? Say hello on [X](https://x.com/Real_Abdullah7) or [LinkedIn](https://www.linkedin.com/in/abdullah-mansuri-product-manager).
