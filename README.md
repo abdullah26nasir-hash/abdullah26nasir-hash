@@ -22,8 +22,8 @@ Labs and Jobs are both part of Uncooked.
 
 | | Idea |
 | --- | --- |
-| 🧭 | Safety in the most sacred journey for 2 billion+ people. |
-| ⚽ | Proving you spotted football's next star before the world did. |
-| 🎭 | Game night in your pocket. Two phones, one code, no sign-up. |
+| 🧭 | Safety infra for the most sacred journey for 2 billion people. |
+| ⚽ | Be the first to spot football's next star before the world does. |
+| 🎭 | Part Guess Who, part poker face. Two phones, one code, no sign-up. |
 
 Interested in working together on any of these projects? Say hello on [X](https://x.com/Real_Abdullah7) or [LinkedIn](https://www.linkedin.com/in/abdullah-mansuri-product-manager).
