@@ -8,12 +8,13 @@ Prev: product @ Outer Circle; one of the youngest product hires @ Centrica, the 
 
 ## Things I'm building
 
-| | Thing | What it does |
-| --- | --- | --- |
-| 🚀 | **Uncooked** | A home for finding promising people early, helping them grow and opening doors to meaningful work. We're trying to get 1 million young people into meaningful opportunities by 2030. |
-| 🛠️ | **Uncooked Labs** | A UK home for people building the physical future in hardware & deep tech: robots, rockets & everything in between. |
-| 🔎 | **Uncooked Jobs** | The trust layer for hiring. Founders see what people can do and hire on proof. |
-| 🤝 | **OC[F]ellows** | A founder residency across Oxford, Cambridge & London. 2 cohorts, 60+ founders. |
+🚀 **Uncooked**: A home for finding promising people early, helping them grow and opening doors to meaningful work. We're trying to get 1 million young people into meaningful opportunities by 2030.
+
+🛠️ **Uncooked Labs**: A UK home for people building the physical future in hardware & deep tech: robots, rockets & everything in between.
+
+🔎 **Uncooked Jobs**: The trust layer for hiring. Founders see what people can do and hire on proof.
+
+🤝 **OC[F]ellows**: A founder residency across Oxford, Cambridge & London. 2 cohorts, 60+ founders.
 
 Labs and Jobs are both part of Uncooked.
 
