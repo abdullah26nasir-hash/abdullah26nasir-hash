@@ -20,10 +20,10 @@ Labs and Jobs are both part of Uncooked.
 
 ## Side projects
 
-| | Thing | What it does |
-| --- | --- | --- |
-| 🧭 | **[Musafir](https://github.com/abdullah26nasir-hash/musafir)** | Plan Umrah with the journey and safety details in one place. |
-| ⚽ | **[Rally](https://github.com/abdullah26nasir-hash/rally)** | Remember picking a future star on FIFA before everyone knew their name? Rally lets you make that call yourself. |
-| 🎭 | **[Unmasked](https://github.com/abdullah26nasir-hash/unmasked)** | Play a guessing game with a friend, wherever you are. |
+| | Idea |
+| --- | --- |
+| 🧭 | Safety in the most sacred journey for 2 billion+ people. |
+| ⚽ | Proving you spotted football's next star before the world did. |
+| 🎭 | Game night in your pocket. Two phones, one code, no sign-up. |
 
 Interested in working together on any of these projects? Say hello on [X](https://x.com/Real_Abdullah7) or [LinkedIn](https://www.linkedin.com/in/abdullah-mansuri-product-manager).
